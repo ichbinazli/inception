@@ -12,12 +12,6 @@ Zorunlu olarak kurulması gereken servisler:
 - **WordPress + PHP-FPM** → Dinamik CMS  
 - **MariaDB** → WordPress veritabanı  
 
-### 🔥 Bonus (opsiyonel)
-- Redis cache  
-- FTP sunucusu  
-- Adminer / phpMyAdmin  
-- Statik web sitesi veya ek servisler  
-
 ---
 
 ## 🔑 Kurallar
